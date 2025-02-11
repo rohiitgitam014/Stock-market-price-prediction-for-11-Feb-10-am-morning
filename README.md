@@ -1,4 +1,4 @@
-# Stock-market-price-prediction-for-11-Feb 2025-10-am-morning 
+# Stock-market-price-prediction-for-11-Feb-2025-10-am-morning 
 1. Introduction This report presents an analysis of stock market price predictions, evaluating trends, model performance, and trading recommendations based on forecasted price movements.
 2. Data Overview The dataset consists of various stock attributes, including:
 •
